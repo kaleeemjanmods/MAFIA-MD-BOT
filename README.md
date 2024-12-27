@@ -7,3 +7,13 @@
     <img alt="MAFIA-MD" width="700" height="300" src="https://i.imghippo.com/files/RYX5040mys.jpg">
 <p align="center">
 <p align="center">
+
+
+
+### <br>   ❖ DEPLOY_HEROKU ❖
+
+`✠ IF YOU WANT TO DEPLOY MAFIA-MD-BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
+
+------------
+ 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/MAFIA-ADEEL/MAFIA-MD-BOT.git)
