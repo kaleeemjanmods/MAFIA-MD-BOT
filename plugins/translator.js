@@ -25,7 +25,7 @@ async (conn, mek, m, { from, q, reply }) => {
         const translation = response.data.responseData.translatedText;
 
         const translationMessage = `
-🌍 *PANHWAR MD TRANSLATION* 🌍
+🌍 *MAFIA MD TRANSLATION* 🌍
 
 🔤 *Original*: ${textToTranslate}
 
@@ -33,7 +33,7 @@ async (conn, mek, m, { from, q, reply }) => {
 
 🌐 *Language*: ${targetLang.toUpperCase()}
 
-*PANHWAR-MD CREATION*`;
+*MAFIA-MD CREATION*`;
 
         return reply(translationMessage);
     } catch (e) {
