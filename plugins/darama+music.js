@@ -82,7 +82,7 @@ let desc = `
 
 🎬 *ENJOY THE VIDEO BROUGHT TO YOU!*
 
-> *PANHWAR-MD WHATSAPP BOT* 
+> *MAFIA-MD WHATSAPP BOT* 
 
 > *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ мαfια α∂єєℓ*
 `
