@@ -13,13 +13,13 @@ try{
 let repo =`
 *╭──────────────●●►*
 > *BOT OWNER:*
-*|* *ANSAR PANHWAR*
+*|* *MAFIA ADEEL*
 
-> *PANHWAR MD REPO:*
-*|* *https://github.com/Panhwar110/Panhwar-MD*
+> *MAFIA MD REPO:*
+*|* *https://github.com/MAFIA-ADEEL/MAFIA-MD-BOT*
 
 > *SUPPORT CHANNEL:*
-*|* *https://whatsapp.com/channel/0029ValASu1IN9ifummBKW1U*
+*|* *https://whatsapp.com/channel/0029VakJs4YJkK7BYQF1Wp1g*
 *╰──────────────●●►*
 
 > *update command Done*
@@ -36,11 +36,11 @@ await conn.sendMessage(from, { text: repo ,
       serverMessageId: 999
     },
 externalAdReply: { 
-title: 'PANHWAR MD',
+title: 'MAFIA MD',
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://github.com/Panhwar110/Panhwar-MD" ,
-thumbnailUrl: "https://i.ibb.co/7NKFsxS/IMG-20241119-WA0087.jpg" ,
+sourceUrl: "https://github.com/MAFIA-ADEEL/MAFIA-MD-BOT" ,
+thumbnailUrl: "https://i.imghippo.com/files/RYX5040mys.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
