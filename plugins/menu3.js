@@ -154,7 +154,7 @@ let madeMenu = `❁ ════ ❃•◯•❃ ════ ❁
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-> *https://github.com/Panhwar110/Panhwar-MD*
+> *https://github.com/MAFIA-ADEEL/MAFIA-MD-BOT*
 
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━
 
