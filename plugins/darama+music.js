@@ -17,7 +17,7 @@ const url = data.url
     
     
 let desc = `
-⫷⦁[ *PANHWAR MD MUSIC DOWNLOADING* ]⦁⫸
+⫷⦁[ *MAFIA MD MUSIC DOWNLOADING* ]⦁⫸
 
 🎵 *MUSIC FOUND!* 
 
@@ -29,9 +29,9 @@ let desc = `
 
 🎧 *ENJOY THE MUSIC BROUGHT TO YOU!*
 
-> *PANHWAR MD WHATSAPP BOT* 
+> *MAFIA MD WHATSAPP BOT* 
 
-> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀɴsᴀʀ ᴋɪɴɢ* 
+> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ мαfια α∂єєℓ* 
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
@@ -70,7 +70,7 @@ const url = data.url
     
     
 let desc = `
-⫷⦁[ *•PANHWAR-MD VIDEO DOWNLOADING* ]⦁⫸ 
+⫷⦁[ *•MAFIA-MD VIDEO DOWNLOADING* ]⦁⫸ 
 
 🎥 *VIDEO FOUND!* 
 
@@ -84,7 +84,7 @@ let desc = `
 
 > *PANHWAR-MD WHATSAPP BOT* 
 
-> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀɴsᴀʀ ᴋɪɴɢ*
+> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ мαfια α∂єєℓ*
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
