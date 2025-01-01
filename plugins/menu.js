@@ -186,6 +186,10 @@ let madeMenu = `╭━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 
 ┏━━━━━━━━━━━━━━━━━━━
 *https://whatsapp.com/channel/0029VakJs4YJkK7BYQF1Wp1g*
+
+*_SUBSCRIBER MY YT CHANNEL MORE INFORMATION_*
+    
+*https://www.youtube.com/@Mafiamdbot*
 ┗━━━━━━━━━━━━━━━━━━━
 
 
