@@ -1,4 +1,4 @@
-const config = require('../config')
+pconst config = require('../config')
 const {cmd , commands} = require('../command')
 const os = require("os")
 const {runtime} = require('../lib/functions')
@@ -186,10 +186,6 @@ let madeMenu = `╭━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 
 ┏━━━━━━━━━━━━━━━━━━━
 *https://whatsapp.com/channel/0029VakJs4YJkK7BYQF1Wp1g*
-
-*_SUBSCRIBER MY YT CHANNEL MORE INFORMATION_*
-    
-*https://www.youtube.com/@Mafiamdbot*
 ┗━━━━━━━━━━━━━━━━━━━
 
 
