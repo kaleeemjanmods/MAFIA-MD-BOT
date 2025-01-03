@@ -1,6 +1,6 @@
 /*
-created ᴍʀsʜᴀʙᴀɴ/sɪʟᴇɴᴛᴜsᴍᴀɴ
-contact
+created ᴍʀADEEL/sɪʟᴇɴᴛᴜsᴍᴀɴ 
+contact 923131613251
 © Copy coder alert ⚠
 */
 
@@ -56,7 +56,7 @@ async(conn, mek, m,{from, l, quoted, body, isCmd, umarmd, args, q, isGroup, send
 
 try{
 let madeSetting =`
-*[ •  SHABAN-SOBX-MD - SETTINGS‎ • ]*
+*[ •  MAFIA-MD - SETTINGS‎ • ]*
 *╭┈───────────────•*
 *┊* *♾️ AUTO_READ_STATUS:* ➠ ${config.AUTO_READ_STATUS}
 *┊* *♾️ MODE:* ➠ ${config.MODE} 
@@ -76,7 +76,7 @@ let madeSetting =`
 *┊* *♾️ READ_MESSAGE:* ➠ ${config.READ_MESSAGE}
 *╰┈───────────────•*
 *•────────────•⟢*
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀsʜᴀʙᴀɴ⁴³²
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ MAFIA-ADEEL
 *•────────────•⟢*
 `
 
@@ -100,7 +100,7 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 let status = `
-*[ •  SHABAN-SOBX-MD - UPTIME ‎ • ]*
+*[ •  MAFIA-MD - UPTIME ‎ • ]*
 *╭┈───────────────•*
 *│  ◦* *_UPTIME:➠_*
 *│  ◦* ${runtime(process.uptime())}
@@ -117,7 +117,7 @@ let status = `
 *╰┈───────────────•*
 
 *•────────────•⟢*
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀsʜᴀʙᴀɴ⁴³²
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ MAFIA ADEEL 👑
 *•────────────•⟢*
 `
 await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:`${status}`},{quoted:mek})
@@ -141,21 +141,21 @@ try{
 let repo =`
 *[ •  B O T - O W N E R ‎ • ]*
 *╭┈───────────────•*
-*│  ◦* *MRSHABAN432*
+*│  ◦* *MRADEEL👑*
 *╰┈───────────────•*
 
 *[ •  SHABAN-SOBX-MD - REPO ‎ • ]*
 *╭┈───────────────•*
-*│  ◦* *https://github.com/MRSHABAN40/SHABAN-SOBX-MD*
+*│  ◦* *https://github.com/MAFIA-ADEEL/MAFIA-MD-BOT*
 *╰┈───────────────•*
 
 *[ •  SUPPORT - GROUP‎ • ]*
 *╭┈───────────────•*
-*│  ◦* *https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O*
+*│  ◦* *https://whatsapp.com/channel/0029VakJs4YJkK7BYQF1Wp1g*
 *╰┈───────────────•*
 
 *•────────────•⟢*
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀsʜᴀʙᴀɴ⁴³²
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ MAFIA ADEEL 👑
 *•────────────•⟢*
 `
 await conn.sendMessage(from, { text: repo ,
@@ -166,15 +166,15 @@ await conn.sendMessage(from, { text: repo ,
     isForwarded: false,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363358310754973@newsletter',
-      newsletterName: "MRSHABAN432",
+      newsletterName: "MRADEEL👑",
       serverMessageId: 999
     },
 externalAdReply: { 
-title: 'SHABAN-SOBX-MD',
+title: 'MAFIA-MD',
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://github.com/MRSHABAN40/SHABAN-SOBX-MD" ,
-thumbnailUrl: "https://i.ibb.co/9N1sJ41/Manul-Ofc-X.jpg" ,
+sourceUrl: "https://github.com/MAFIA-ADEEL/MAFIA-MD-BOT" ,
+thumbnailUrl: "https://i.ibb.co/NpQT2FR/Manul-Ofc-X.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
