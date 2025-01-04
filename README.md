@@ -20,7 +20,7 @@
     
  ### 🟣 𝙎𝙃𝙊𝙍𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙁𝙊𝙍 𝙃𝙀𝙍𝙊𝙆𝙐
    <h3 style="color: #430098;">𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀🎭👑</h3>
-    <a href="https://panhwar-pair-9aaf305c0a91.herokuapp.com/">
+    <a href="https://mafia-md-pair-cod-0bd4aafd418e.herokuapp.com/">
         <img height="30" title="Session" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-purple?style=for-the-badge&logo=heroku&logoColor=white">
     </a>
 </div>
@@ -38,13 +38,6 @@
 <div align="center">
     <a href="https://dashboard.heroku.com/new-app?template=https://github.com/MAFIA-ADEEL/MAFIA-MD-BOT">
         <img height="30" title="Heroku" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render">
-    </a>
-    <a href="https://dashboard.heroku.com/new-app?template=https://github.com/MAFIA-ADEEL/MAFIA-MD-BOT">
-        <img height="30" title="Heroku" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render">
-    </a>
-    <a href="https://dashboard.heroku.com/new-app?template=https://github.com/MAFIA-ADEEL/MAFIA-MD-BOT">
-        <img height="30" title="Heroku" src="https://img.shields.io/badge/𝗛𝗘𝗥𝗢𝗞𝗨-9966CC?style=for-the-badge&logo=render">
-    </a>
 </div>
 
 <div align="center">
@@ -70,8 +63,30 @@
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </div>
 
+  
+### 🟢 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙔𝙊𝙐𝙏𝙐𝘽𝙀 𝙇𝙄𝙉𝙆 🟢
 
-### 💠 [`𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 𝐋𝐀𝐍𝐆𝐔𝐆𝐄𝐒 𝐅𝐎𝐑 𝙈𝘼𝙁𝙄𝘼-𝐌𝐃-𝐁𝐎𝐓`]
+</div>
+
+
+
+
+
+
+<p align="center">
+    <a href="https://www.youtube.com/@Mafiamdbot">
+        <img height="30" title="Support Group" src="https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=youtube&logoColor=white">
+    </a>
+</p>
+
+<div align="center">
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+</div>
+
+
+
+### 💠 [`𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 𝐋𝐀𝐍𝐆𝐔𝐆`]
 - 🪄 Arabic = ar 
 - 🪄 Urdu = ur
 - 🪄 English Global = en
