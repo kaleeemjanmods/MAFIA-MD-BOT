@@ -13,16 +13,16 @@ try{
 let repo =`
 *╭──────────────●●►*
 > *BOT OWNER:*
-*|* *ANSAR PANHWAR*
+*|* *MAFIA-ADEEL👑*
 
 > *PANHWAR MD REPO:*
-*|* *https://github.com/Panhwar110/Panhwar-MD*
+*|* *https://github.com/MAFIA-ADEEL/MAFIA-MD-BOT*
 
 > *SUPPORT CHANNEL:*
-*|* *https://whatsapp.com/channel/0029ValASu1IN9ifummBKW1U*
+*|* *https://whatsapp.com/channel/0029VakJs4YJkK7BYQF1Wp1g*
 *╰──────────────●●►*
 
-> *🇵🇰PANHWAR-MD*
+> *MAFIA-MD*
 `
 await conn.sendMessage(from, { text: repo ,
   contextInfo: {
@@ -31,16 +31,16 @@ await conn.sendMessage(from, { text: repo ,
     forwardingScore: 999,
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363321103874131@newsletter',
-      newsletterName: "Panhwar🫀💀👑",
+      newsletterJid: '120363300351654980@newsletter',
+      newsletterName: "MAFIA-ADEEL👑",
       serverMessageId: 144
     },
 externalAdReply: { 
-title: 'PANHWAR MD',
+title: 'MAFIA MD',
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://github.com/Panhwar110/Panhwar-MD" ,
-thumbnailUrl: "https://i.ibb.co/7NKFsxS/IMG-20241119-WA0087.jpg" ,
+sourceUrl: "https://github.com/MAFIA-ADEEL/MAFIA-MD-BOT" ,
+thumbnailUrl: "https://i.ibb.co/hc1P121/Manul-Ofc-X.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
