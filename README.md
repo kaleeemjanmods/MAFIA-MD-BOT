@@ -14,27 +14,27 @@
   </a>
 </p>
 
-<a><img src='[https://i.ibb.co/hc1P121/Manul-Ofc-X.jpg]</a>
+<a><img src='https://i.ibb.co/hc1P121/Manul-Ofc-X.jpg'/></a>
 
 
 <img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> PANHWAR-MD </h1> 
-<p align="center">PANHWAR-MD made for people, on Earth </p>
+<h1 align="center"> MAFIA-MD </h1> 
+<p align="center">MAFIA-MD made for people, on Earth </p>
 
  
    
 <p align="center">
  <h2>WhatsApp channel</h2>
-  <a href="https://whatsapp.com/channel/0029ValASu1IN9ifummBKW1U" target="_blank">
+  <a href="(https://whatsapp.com/channel/0029VakJs4YJkK7BYQF1Wp1g)" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
 
 
 
-<p align="center"> PANHWAR-MD uses
-  <a href="https://github.com/Panhwar110/Panhwar-MD">Multi-Device Baileys.</a>
+<p align="center"> MAFIA-MD uses
+  <a href="https://github.com/MAFIA-ADEEL/MAFIA-MD-BOT">Multi-Device Baileys.</a>
 </p>
 <p align="center">
   <img title="Whatsapp-Bot-Javascript" src="https://img.shields.io/badge/Javascript-363303?style=for-the-badge&logo=javascript&logoColor=c6c631"></img>
