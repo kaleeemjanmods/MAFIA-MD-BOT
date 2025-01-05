@@ -19,7 +19,7 @@ cmd({
 async (conn, mek, m, { from, quoted, reply }) => {
     try {
         // Define the settings message with the correct boolean checks
-        let envSettings = `╭━━━〔 *PANHWAR-MD* 〕━━━┈⊷
+        let envSettings = `╭━━━〔 *MAFIA-MD* 〕━━━┈⊷
 ┃▸╭───────────
 ┃▸┃๏ *ENV SETTINGS 🗿*
 ┃▸└───────────···๏
@@ -47,15 +47,15 @@ async (conn, mek, m, { from, quoted, reply }) => {
         await conn.sendMessage(
             from,
             {
-                image: { url: 'https://i.ibb.co/59675LG/Manul-Ofc-X.jpg' }, // Image URL
+                image: { url: 'https://i.ibb.co/hc1P121/Manul-Ofc-X.jpg' }, // Image URL
                 caption: envSettings,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363321103874131@newsletter',
-                        newsletterName: "ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ",
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: "MAFIA-ADEEL👑",
                         serverMessageId: 143
                     }
                 }
