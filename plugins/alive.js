@@ -13,7 +13,7 @@ cmd({
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
         // Generate system status message
-        const status = `╭━━〔 *PANHWAR-MD* 〕━━┈⊷
+        const status = `╭━━〔 *MAFIA-MD* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• *⏳Uptime*:  ${runtime(process.uptime())} 
 ┃◈┃• *📟 Ram usage*: ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${(os.totalmem() / 1024 / 1024).toFixed(2)}MB
@@ -22,19 +22,19 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• *🧬 Version*: 2.0.0
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ`;
+> © POWERED BY MAFIA-ADEEL👑`;
 
         // Send the status message with an image
         await conn.sendMessage(from, { 
-            image: { url: `https://i.imgur.com/UfzyhWN.jpeg` },  // Image URL
+            image: { url: `https://i.ibb.co/hc1P121/Manul-Ofc-X.jpg` },  // Image URL
             caption: status,
             contextInfo: {
                 mentionedJid: [m.sender],
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363321103874131@newsletter',
-                    newsletterName: 'ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ',
+                    newsletterJid: '120363300351654980@newsletter',
+                    newsletterName: 'MAFIA-ADEEL👑',
                     serverMessageId: 143
                 }
             }
