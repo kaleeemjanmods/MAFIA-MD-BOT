@@ -23,19 +23,40 @@
 <h1 align="center"> MAFIA-MD </h1> 
 <p align="center">MAFIA-MD made for people, on Earth </p>
 
- 
-   
-<p align="center">
- <h2>WhatsApp channel</h2>
-  <a href="(https://whatsapp.com/channel/0029VakJs4YJkK7BYQF1Wp1g)" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+----------    
 
-    
+`✠ IF YOU WANT MORE ABOUT AWAN-MD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO JOIN OUR WHATSAPP GROUP FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP ✠`
+
+---------
+
+<a href="https://whatsapp.com/channel/0029VakJs4YJkK7BYQF1Wp1g"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+
+-----------
+
+`✠ IF YOU WANT MORE ABOUT MAFIA-MD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL ✠`
+
+----------
+
+<a href="https://www.youtube.com/@Mafiamdbot"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+
+--------------
+
+`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠`✠
+
+### <br> ❖ DEPLOY AND SESSION METHOD ❖
+
+<br>
+
+`✠ HOW TO DEPLOY MAFIA-MD ON HEROKU WATCH VIDEO AND SUPPORT OUR YOUTUBE CHANNEL ✠`
+
+-------------
+
 <p align="center">
- <h2>YOUTUBE channel</h2>
-  <a href="(https://www.youtube.com/@Mafiamdbot)" target="_blank">
-    <img alt="YOUTUBE" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=YOUTUBE&logoColor=white" />
- 
+   <a href="https://www.youtube.com/@Mafiamdbot?si=_a-skfMMehMd5zMT"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+    </a>
+</p>
+
+---------------
 
 
 
