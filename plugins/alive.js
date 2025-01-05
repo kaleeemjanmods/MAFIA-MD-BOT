@@ -18,7 +18,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• *⏳Uptime*:  ${runtime(process.uptime())} 
 ┃◈┃• *📟 Ram usage*: ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${(os.totalmem() / 1024 / 1024).toFixed(2)}MB
 ┃◈┃• *⚙️ HostName*: ${os.hostname()}
-┃◈┃• *👨‍💻 Owner*: ᴀɴsᴀʀ-ᴘᴀɴʜᴡᴀʀ
+┃◈┃• *👨‍💻 Owner*: ☆° ﾟ𝙼𝙰𝙵𝙸𝙰-𝙰𝙳𝙴𝙴𝙻ﾟ°☆
 ┃◈┃• *🧬 Version*: 2.0.0
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
