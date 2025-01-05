@@ -292,7 +292,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃▸📖 COMMAND: .trt 
 ┃▸ℹ️ change languages 
 ╰━━━━━━━━━━━━⪼
->  *ᴘᴏᴡᴅᴇʀᴇᴅ ʙʏ ᴀᴡᴀɪsxᴄʜᴜᴢᴢᴀ*`;
+>  *ᴘᴏᴡᴅᴇʀᴇᴅ ʙʏ «𝙼𝙰𝙵𝙸𝙰-𝙰𝙳𝙴𝙴𝙻»*`;
 
         await conn.sendMessage(
             from,
