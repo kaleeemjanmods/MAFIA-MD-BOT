@@ -10,7 +10,7 @@
 ---
 <p align="center">
   <a href="https://github.com/MAFIA-ADEEL">
-    <img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=MAFIA-MD-+v1.0+MultiDevice;Developed+by+Mafia-Adeel;Give+star+and+forks+this+Repo+🌟" alt="Panhwar110Readme">
+    <img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=MAFIA-MD-+v1.0+MultiDevice;Developed+by+MAFIA-ADEEL👑;Give+star+and+forks+this+Repo+🌟" alt="Panhwar110Readme">
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 
 ----------    
 
-`✠ IF YOU WANT MORE ABOUT AWAN-MD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO JOIN OUR WHATSAPP GROUP FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP ✠`
+`✠ IF YOU WANT MORE ABOUT MAFIA-MD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO JOIN OUR WHATSAPP GROUP FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP ✠`
 
 ---------
 
@@ -60,7 +60,7 @@
 
 
 
-<p align="center"> MAFIA-MD uses
+<p align="center"> MAFIA-MD USES
   <a href="https://github.com/MAFIA-ADEEL/MAFIA-MD-BOT">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -69,10 +69,32 @@
 
     
 
-1. Link your WhatsApp by [`PAIR CODE`](https://mafia-md-pair-cod-0bd4aafd418e.herokuapp.com/)
-2. ***Then `Go to Whatapp > Three dots > Linked Devices`***
-3. Deploy On Heruku .[`HEROKU`](https://dashboard.heroku.com/new-app?template=https://github.com/MAFIA-ADEEL/MAFIA-MD-BOT)
-4.  ***Deploy on [`TalkDrove deploy soon`](coming soon)***
+
+### <br>    ❖ SESSION_ID ❖
+
+
+`✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+923131613251 THEN YOU CAN GET YOUR SESSION_ID ✠`
+
+----------
+
+<p align="center">
+<a href="https://tinyurl.com/MAFIA-MD-PAIR"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
+<p/>
+
+
+
+----------
+ 
+### <br>   ❖ DEPLOY_HEROKU ❖
+
+`✠ IF YOU WANT TO DEPLOY MAFIA-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
+
+------------
+ 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/MAFIA-ADEEL/MAFIA-MD-BOT)
+
+----------
+1.  ***Deploy on [`TalkDrove deploy soon`](coming soon)***
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
