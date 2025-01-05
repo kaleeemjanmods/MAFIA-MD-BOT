@@ -29,6 +29,12 @@
  <h2>WhatsApp channel</h2>
   <a href="(https://whatsapp.com/channel/0029VakJs4YJkK7BYQF1Wp1g)" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+    
+<p align="center">
+ <h2>YOUTUBE channel</h2>
+  <a href="(https://www.youtube.com/@Mafiamdbot)" target="_blank">
+    <img alt="YOUTUBE" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=YOUTUBE&logoColor=white" />
  
 
 
