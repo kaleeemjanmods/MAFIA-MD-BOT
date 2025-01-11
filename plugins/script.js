@@ -15,7 +15,7 @@ let repo =`
 > *BOT OWNER:*
 *|* *MAFIA-ADEEL👑*
 
-> *PANHWAR MD REPO:*
+> *MAFIA MD REPO:*
 *|* *https://github.com/MAFIA-ADEEL/MAFIA-MD-BOT*
 
 > *SUPPORT CHANNEL:*
