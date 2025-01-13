@@ -78,7 +78,7 @@
 ----------
 
 <p align="center">
-<a href="[https://mafia-md--pair-b7d7eb639b04.herokuapp.com/](https://mafia-md--pair-b7d7eb639b04.herokuapp.com/)"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
+<a href="https://mafia-md--pair-b7d7eb639b04.herokuapp.com/"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
 <p/>
 
 
