@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF033E&center=true&width=1000&height=200&lines=MAFIA-MD-BOT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=green&center=true&width=1000&height=200&lines=MAFIA-MD-BOT" alt="Typing SVG" /></a>
   </p>
 
 <p align="center">
@@ -78,7 +78,7 @@
 ----------
 
 <p align="center">
-<a href="https://mafia-md--pair-b7d7eb639b04.herokuapp.com/"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
+<a href="https://mafia-md-402-b07147e5e03d.herokuapp.com/"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
 <p/>
 
 
