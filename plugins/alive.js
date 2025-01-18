@@ -18,15 +18,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• *⏳Uptime*:  ${runtime(process.uptime())} 
 ┃◈┃• *📟 Ram usage*: ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${(os.totalmem() / 1024 / 1024).toFixed(2)}MB
 ┃◈┃• *⚙️ HostName*: ${os.hostname()}
-┃◈┃• *👨‍💻 Owner*: ☆° ﾟ𝙼𝙰𝙵𝙸𝙰-𝙰𝙳𝙴𝙴𝙻ﾟ°☆
-┃◈┃• *🧬 Version*: 2.0.0
+┃◈┃• *👨‍💻 Owner*: ＭＡＦＩＡ ＡＤＥＥＬ💝
+┃◈┃• *🧬 Version*: 3.0.0 BETA
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-> © POWERED BY MAFIA-ADEEL👑`;
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀꜰɪᴀ ᴀᴅᴇᴇʟ`;
 
         // Send the status message with an image
         await conn.sendMessage(from, { 
-            image: { url: `https://i.ibb.co/Z8JfJpV/Manul-Ofc-X.jpg` },  // Image URL
+            image: { url: `https://qu.ax/lgTzZ.jpg` },  // Image URL
             caption: status,
             contextInfo: {
                 mentionedJid: [m.sender],
@@ -34,7 +34,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363300351654980@newsletter',
-                    newsletterName: 'MAFIA-ADEEL👑',
+                    newsletterName: 'ᴍᴀꜰɪᴀ ᴀᴅᴇᴇʟ💝',
                     serverMessageId: 143
                 }
             }
