@@ -2,7 +2,7 @@
   </p>
 
 <p align="center">
-  <h1 align="center">MAFIA-MD 1.0</h1>
+  <h1 align="center">https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=green&center=true&width=0&height=200&lines=MAFIA-MD 1.0</h1>
 </p>
 
 > **`Updated` The Version 1.0**
