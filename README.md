@@ -1,9 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=green&center=true&width=1000&height=200&lines=MAFIA-MD-BOT" alt="Typing SVG" /></a>
   </p>
 
-<p align="center">
-  <h1 align="center">https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=green&center=true&width=0&height=200&lines=MAFIA-MD 1.0</h1>
-</p>
 
 > **`Updated` The Version 1.0**
 
@@ -94,9 +91,64 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/MAFIA-ADEEL/MAFIA-MD-BOT)
 
 ----------
-1.  ***Deploy on [`TalkDrove deploy soon`](coming soon)***
+### <br>   ❖ DEPLOY_WORKFLOWS ❖
+```
+name: Node.js CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Start application
+      run: npm start
+```
+
+-----------
+
+
+
+2.  ***Deploy on [`TalkDrove deploy soon`](coming soon)***
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+
+
+***BOT FEATURES BY MAFIA MD💌***
+
+| Menu ⁠➜ | Bot | Group | Pair | Download | Tools | Ai | Viewonce | Fun | Status Reply | Status Reacts | Convert | Autoreacts |
+|--------|---|-----|------|--------|-----|--|----|---|-----|----|--------|-----|
+| Work ➜ | ✅ | ✅ | ✅ | ✅ | ✅  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+---------------------
+
+
+
