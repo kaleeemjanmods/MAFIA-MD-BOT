@@ -74,7 +74,7 @@
 ----------
 
 <p align="center">
-<a href="https://mafiapair-31fc3e3f3ba6.herokuapp.com/"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
+<a href="https://awais-md-pair.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
 <p/>
 
 
