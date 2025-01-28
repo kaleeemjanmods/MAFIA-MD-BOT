@@ -1,4 +1,4 @@
-name: Node.js CI
+name:
 
 on:
   push:
@@ -21,7 +21,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Set up Node.js
+    - name: 
       uses: actions/setup-node@v3
       with:
         node-version: ${{ matrix.node-version }}
